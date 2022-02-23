@@ -11,6 +11,7 @@
     <modules>
         <module>spring-bean-factory</module>
         <module>spring-bean-define-register-get</module>
+        <module>spring-bean-instantiation-strategy</module>
     </modules>
 
     <properties>
